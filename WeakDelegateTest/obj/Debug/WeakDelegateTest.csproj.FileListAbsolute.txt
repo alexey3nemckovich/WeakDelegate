@@ -1,0 +1,8 @@
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\bin\Debug\WeakDelegateTest.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\bin\Debug\WeakDelegateTest.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\bin\Debug\WeakDelegate.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\bin\Debug\WeakDelegate.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\obj\Debug\WeakDelegateTest.csprojResolveAssemblyReference.cache
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\obj\Debug\WeakDelegateTest.dll
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegate\WeakDelegateTest\obj\Debug\WeakDelegateTest.pdb

@@ -1,0 +1,6 @@
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\bin\Debug\WeakDelegate.exe.config
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\bin\Debug\WeakDelegate.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\bin\Debug\WeakDelegate.pdb
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\obj\Debug\WeakDelegte.csprojResolveAssemblyReference.cache
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\obj\Debug\WeakDelegate.exe
+D:\Учёба\Предметы\Сем 5\Лабораторные\СПП\WeakDelegte\WeakDelegte\obj\Debug\WeakDelegate.pdb
